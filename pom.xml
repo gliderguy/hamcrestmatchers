@@ -7,7 +7,10 @@
     <groupId>com.gliderguy</groupId>
     <artifactId>hamcrestmatchers</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <description>Describes the usage of JUnit Hamcrest Example</description>
+    <name>JUnit Hamcrest Example</name>
+    <description>Describes the usage of JUnit Hamcrest Example
+        A copy from the example project from https://examples.javacodegeeks.com/core-java/junit/junit-hamcrest-example/
+    </description>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
